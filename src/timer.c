@@ -1,5 +1,6 @@
 #include <arch/timer.h>
 #include <arch/csr.h>
+#include <kernel/trap.h>     
 #include <kernel/panic.h>
 #include <kernel/printf.h>
 
